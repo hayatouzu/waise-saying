@@ -2,8 +2,8 @@
   <section class="container mx-auto">
     <CAnime />
     <CGame />
-    <CPerson />
     <CMovie />
+    <CPerson />
   </section>
 </template>
 

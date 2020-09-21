@@ -1,9 +1,9 @@
 <template>
-  <header class="text-center bg-blue-200 w-full">
-    <div class="container mx-auto py-4">
+  <header class="text-center bg-blue-200 w-full container mx-auto">
+    <div class="container py-4">
       <h1>名言ツイート</h1>
       <p v-if="isTop">
-        ここにテキスト入れてください
+        このサイトはカテゴリーごとに名言をランダムで表示します！<br />気に入ったものがあれば是非ツイートしてください！
       </p>
       <nuxt-link to="/">
         TOP
