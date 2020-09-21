@@ -1,9 +1,5 @@
 <template>
-  <div>
-    <div>
-      <nuxt-link :to="">
-    </div>
-  </div>
+  <div></div>
 </template>
 
 <script>

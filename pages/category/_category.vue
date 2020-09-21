@@ -12,9 +12,9 @@
     </div>
     <div class="fixed sayingButton">
       <a href="#" @click.prevent="test">名言ボタン</a>
-      <a v-if="saying" target="_blanck" :href="tweet" class="ml-10"
-        >ツイートする</a
-      >
+      <a v-if="saying" target="_blanck" :href="tweet" class="ml-10">
+        ツイートする
+      </a>
     </div>
   </div>
 </template>
@@ -41,7 +41,6 @@ export default {
     test() {
       const random = Math.round(Math.random() * (this.sayingData.length - 1))
       this.saying = this.sayingData[random]
-      console.log(random)
     },
   },
 }
