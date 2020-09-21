@@ -11,7 +11,7 @@
 import CAnime from '@/pages/-CAnime'
 import CGame from '@/pages/-CGame'
 import CMovie from '@/pages/-CMovie'
-import CPerson from '@/pages/-Cperson'
+import CPerson from '@/pages/-CPerson'
 
 export default {
   components: {
