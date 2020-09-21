@@ -1,5 +1,5 @@
 <template>
-  <section class="container mx-auto px-5">
+  <section class="container mx-auto">
     <CAnime />
     <CGame />
     <CPerson />
