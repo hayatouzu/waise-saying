@@ -2,15 +2,15 @@
   <div class="category">
     <div v-if="saying" class="container mx-auto text-center flex-col">
       <p class="mt-10">名言：{{ saying.text }}</p>
-      <div v-if="!saying.image" class="h-64"></div>
+      <!-- <div v-if="!saying.image" class="h-20"></div> -->
       <img
         v-if="saying.image"
-        class="w-4/5 mx-auto mt-12"
+        class="w-1/2 h-56 mx-auto mt-12"
         :src="saying.image"
       />
-      <p>作品：{{ saying.name }}</p>
+      <p class="mt-4">作品：{{ saying.name }}</p>
     </div>
-    <div class="fixed sayingButton">
+    <div class="absolute sayingButton mt-10">
       <a
         href="#"
         class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"

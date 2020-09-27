@@ -1,8 +1,13 @@
 sayings:
-  - text: オレはオレが諦めるまで、諦めない
-    image:
-    name: 左利きのエレン/朝倉 光一
+  - text: 学ぶことを止めた時、それは死の始まり。
+    image: /images/sayings/person/person_ain.jpg
+    name: アルベルト・アインシュタイン
 
-  - text: test
-    image: ''
-    name: ''
+  - text: もし今日が人生で最後の日だとしたら、今日やろうとしていることをやりたいと思うか？
+    image: /images/sayings/person/person_jobs.jpg
+    name: スティーブ・ジョブズ
+
+  - text: 悲観的な人は、好機の中にいつも困難を見つける。楽観的な人は、困難の中にいつも好機を見つける。
+    image: /images/sayings/person/person_wisu.jpg
+    name: ウィストン・チャーチル
+

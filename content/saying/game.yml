@@ -1,8 +1,16 @@
 sayings:
-  - text: オレはオレが諦めるまで、諦めない
-    image:
-    name: 左利きのエレン/朝倉 光一
+  - text: 例え何度生まれ変わっても、僕は必ず同じ道を選ぶ！
+    image: /images/sayings/game/game_rion.jpg
+    name: テイルズオブデスティニー/リオン・マグナス
 
-  - text: test
-    image: ''
-    name: ''
+  - text: 人殺しが正当化される事などない。正当化される時代もない。俺達は自分の功績を残そうとしているんじゃない。俺は未来のために銃を握っている。
+    image: /images/sayings/game/game_suneku.jpg
+    name: メタルギアソリッド4/スネーク
+
+  - text: 誰かを助けるのに理由が必要か？人が生きるのに理屈が必要か？
+    image: /images/sayings/game/game_jitan.jpg
+    name: FF9/ジダン
+
+  - text: 人生にリセットボタンは無い。コンティニューはある
+    image: /images/sayings/game/game_rako.jpg
+    name: どうぶつの森/ラコスケ

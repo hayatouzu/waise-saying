@@ -1,8 +1,20 @@
 sayings:
-  - text: オレはオレが諦めるまで、諦めない
-    image:
-    name: 左利きのエレン/朝倉 光一
+  - text: 大いなる力には、大いなる責任が伴う
+    image: /images/sayings/movie/movie_ben.png
+    name: スパイダーマン/ベン
 
-  - text: test
-    image: ''
-    name: ''
+  - text: 3000回愛してる
+    image: /images/sayings/movie/movie_3000.jpg
+    name: マーベル/トニー・スターク
+
+  - text: アベンジャーズ！、、、アッセンブル
+    image: /images/sayings/movie/movie_kyaputen.jpg
+    name: マーベル/キャプテン・アメリカ
+
+  - text: 君は君であるために産まれてきたのに、なぜ君はみんなに合わせようと一生懸命なんだ？
+    image: /images/sayings/movie/movie_roiyaru.jpg
+    name: ロイヤル・セブンティーン/ヘンリー
+
+  - text: 人と違う生き方はそれなりにしんどいぞ。何が起きても誰のせいにもできないからね
+    image: /images/sayings/movie/movie_mimi.jpg
+    name: 耳をすませば/主人公の父

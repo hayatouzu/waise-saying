@@ -1,8 +1,32 @@
 sayings:
   - text: オレはオレが諦めるまで、諦めない
-    image:
+    image: /images/sayings/anime/anime_eren.jpg
     name: 左利きのエレン/朝倉 光一
 
-  - text: test
-    image: ''
-    name: ''
+  - text: 諦めたらそこで試合終了ですよ？
+    image: /images/sayings/anime/anime_anzai.jpg
+    name: スラムダンク/ 安西先生
+
+  - text: 命は金より重い
+    image: /images/sayings/anime/anime_kaiji.jpg
+    name: カイジ/ 利根川 幸雄
+
+  - text: 人は いつ死ぬと思う…？心臓をピストルで撃ち抜かれた時…違う 不治の病に冒された時…違う　猛毒キノコのスープを飲んだ時…違う!!!……人に忘れられた時さ…!!!
+    image: /images/sayings/anime/anime_hiruruku.jpg
+    name: ONE PIECE/Dr.ヒルルク
+
+  - text: 勝てる勝てないじゃなく、ここで俺はお前に立ち向かわなくちゃいけないんだ！
+    image: /images/sayings/anime/anime_mumen.jpg
+    name: ワンパンマン/無免ライダー
+
+  - text: 俺の人生はつまらなくなんかない！家族のいる幸せをあんたたちにも分けてあげたいくらいだぜ
+    image: /images/sayings/anime/anime_hirosi.png
+    name: クレヨンしんちゃん/野原ひろし
+
+  - text: 撃っていいのは撃たれる覚悟があるヤツだけだ
+    image: /images/sayings/anime/anime_ruru.jpeg
+    name: コードギアス反逆のルルーシュ/ルルーシュ・ランペルージ
+
+  - text: 将来どうなるか、分かってなきゃいけねぇのかよ？将来が保証されてなきゃ、何もやっちゃいけねぇのかよ？そんなのどこがおもしれぇんだ？
+    image: /images/sayings/anime/anime_GTO.jpg
+    name: GTO/ 鬼塚英吉
