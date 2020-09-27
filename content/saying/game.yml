@@ -1,16 +1,8 @@
 sayings:
-			- text:名言
-				image:
-        name: 作品名/人物名
-			- text:名言33
-				image:
-        name: 作品名/人物名
-			- text:名言12
-				image:
-        name: 作品名/人物名
-			- text:名言321
-				image:
-        name: 作品名/人物名
-			- text:名言121
-				image:
-        name: 作品名/人物名
+  - text: オレはオレが諦めるまで、諦めない
+    image:
+    name: 左利きのエレン/朝倉 光一
+
+  - text: test
+    image: ''
+    name: ''

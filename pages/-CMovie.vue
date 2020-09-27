@@ -8,7 +8,9 @@
       >
         映画 名言
       </nuxt-link>
-      <p>ここは映画の名言を書くところです。</p>
+      <p class="mt-10">
+        このカテゴリーでは映画の名言をランダムで表示していきます！
+      </p>
     </div>
   </div>
 </template>
@@ -21,6 +23,9 @@ export default {}
 .c-movie__image {
   height: 100vh;
   width: 50%;
-  background-image: url('~assets/images/topImages/anime.jpg');
+  background-image: url('~assets/images/topImages/movie.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 </style>

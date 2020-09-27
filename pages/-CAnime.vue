@@ -8,7 +8,9 @@
       >
         アニメ・漫画 名言
       </nuxt-link>
-      <p>ここはアニメの名言を書くところです。</p>
+      <p class="mt-10">
+        このカテゴリーではアニメ・漫画の名言をランダムで表示していきます！
+      </p>
     </div>
   </div>
 </template>
@@ -22,5 +24,8 @@ export default {}
   height: 100vh;
   width: 50%;
   background-image: url('~assets/images/topImages/anime.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 </style>

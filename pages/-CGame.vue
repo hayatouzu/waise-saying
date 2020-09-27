@@ -7,7 +7,9 @@
       >
         ゲーム 名言
       </nuxt-link>
-      <p>ここはゲームの名言を書くところです。</p>
+      <p class="mt-10">
+        このカテゴリーではゲームの名言をランダムで表示していきます！
+      </p>
     </div>
     <div class="c-game__image w-1/2"></div>
   </div>
@@ -21,6 +23,9 @@ export default {}
 .c-game__image {
   height: 100vh;
   width: 50%;
-  background-image: url('~assets/images/topImages/anime.jpg');
+  background-image: url('~assets/images/topImages/game.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 </style>
