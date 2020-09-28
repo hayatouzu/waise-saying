@@ -1,5 +1,5 @@
 <template>
-  <div class="container flex items-center">
+  <div class="flex items-center">
     <div class="w-1/2 text-center">
       <nuxt-link
         to="/category/person"

@@ -1,5 +1,5 @@
 <template>
-  <div class="container flex items-center">
+  <div class="flex items-center">
     <div class="c-movie__image w-1/2"></div>
     <div class="w-1/2 text-center">
       <nuxt-link
